@@ -9,6 +9,6 @@ while (i < holidays.length){
 }
 
 // for文使用
-for (let i = 0; i <= holidays.length; i++) {
+for (let i = 0; i < holidays.length; i++) {
     console.log(holidays[i]);
   }
